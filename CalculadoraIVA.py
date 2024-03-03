@@ -1,4 +1,5 @@
-
+#Aplicación funcional de para introducir elementos con su precio 
+# y calcular el IVA y el precio total de la compra
 
 objetos = []
 IVA= 0.21
