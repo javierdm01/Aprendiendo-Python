@@ -1,4 +1,5 @@
-
+#Ejercicio Para aprender a usar las estructuras de control de flujo en Python
+#Ejercicio para calcular el IMC (Indice de Masa Corporal)
 
 peso=float(input("Escribe tu peso (kg): "))
 estatura=float( input("Escribe tu estatura (m): "))    
