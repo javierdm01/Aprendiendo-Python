@@ -1,4 +1,3 @@
-
 #Corregir si el usuario introduce un valor que no sea entero
 """
 while True:
